@@ -46,7 +46,7 @@ Smartphone → HC-05 Bluetooth Module → Arduino UNO/Nano → Motor Driver → 
 
 The complete circuit diagram is available below:
 
-![Circuit Diagram](Circuit%20Diagram.png)
+Circuit Diagram.png
 
 ---
 
