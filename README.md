@@ -44,9 +44,13 @@ Smartphone → HC-05 Bluetooth Module → Arduino UNO/Nano → Motor Driver → 
 
 ## Circuit Diagram
 
-The complete circuit diagram is available below:
-
 ![Circuit Diagram](./Circuit%20Diagram.png)
+
+---
+
+## Block Diagram
+
+![Block Diagram](./Block%20Diagram.png)
 
 ---
 
@@ -79,9 +83,7 @@ The complete circuit diagram is available below:
 
 The Arduino source code is available in:
 
-```text
-GestureRobo.ino
-```
+[View GestureRobo.ino](./Code/GestureRobo.ino)
 
 ---
 
@@ -118,9 +120,7 @@ Gesture-Controlled-Robot/
 
 Complete project documentation is available in:
 
-```text
-REPORT.pdf
-```
+[View Project Report](./REPORT.pdf)
 
 ---
 
@@ -153,4 +153,12 @@ This project demonstrates an intuitive and efficient method of controlling a rob
 
 ## Author
 
-Developed as an academic and learning project in Embedded Systems and Robotics.
+Shriya Pande
+
+Robotics & Automation Intern — CODEC Technologies
+
+This project was developed as part of my internship experience at CODEC Technologies, with a focus on practical implementation of robotics, embedded systems, and wireless control.
+
+---
+
+If you found this project interesting, consider giving the repository a star.
