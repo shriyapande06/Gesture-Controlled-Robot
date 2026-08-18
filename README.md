@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Image.jpg" alt="Gesture Controlled Robot" width="500">
+  <img src="./Assets/robot.jpg" alt="Gesture Controlled Robot" width="500">
 </p>
 
 <h1 align="center">Gesture-Controlled Robot</h1>
@@ -12,6 +12,7 @@
   <b>Arduino</b> • <b>HC-05 Bluetooth</b> • <b>Accelerometer</b> • <b>Motor Driver</b>
 </p>
 
+---
 ---
 ## About The Project
 
