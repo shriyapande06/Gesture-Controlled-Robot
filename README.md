@@ -10,7 +10,6 @@
 </p>
 
 ---
----
 ## About The Project
 
 The **Gesture-Controlled Robot** is a wireless mobile robot that can be controlled using the movement and orientation of a smartphone.
