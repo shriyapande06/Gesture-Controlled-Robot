@@ -1,8 +1,5 @@
-
-# Gesture-Controlled Robot
-
 <p align="center">
-  <img src="Assets/Image" alt="Gesture Controlled Robot" width="500">
+  <img src="Assets/Image.jpg" alt="Gesture Controlled Robot" width="500">
 </p>
 
 <h1 align="center">Gesture-Controlled Robot</h1>
@@ -16,7 +13,6 @@
 </p>
 
 ---
-
 ## About The Project
 
 The **Gesture-Controlled Robot** is a wireless mobile robot that can be controlled using the movement and orientation of a smartphone.
