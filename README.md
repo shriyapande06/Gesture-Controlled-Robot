@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./Assets/robot.jpg" alt="Gesture Controlled Robot" width="500">
-</p>
 
 <h1 align="center">Gesture-Controlled Robot</h1>
 
