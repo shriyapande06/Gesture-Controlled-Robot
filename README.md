@@ -1,4 +1,4 @@
-````markdown
+
 # Gesture-Controlled Robot
 
 <p align="center">
@@ -14,7 +14,7 @@
 <p align="center">
   <b>Arduino</b> • <b>HC-05 Bluetooth</b> • <b>Accelerometer</b> • <b>Motor Driver</b>
 </p>
-````
+
 ---
 
 ## About The Project
