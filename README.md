@@ -503,4 +503,3 @@ You are welcome to explore, modify, and build upon this project for educational 
 <p align="center">
   If you found this project useful or interesting, consider giving the repository a star.
 </p>
-```
